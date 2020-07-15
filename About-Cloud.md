@@ -21,12 +21,12 @@
 
 ## 주요 서비스
 ### Core 
-- Compute:VWL
-- Compute:Auto-
-- Storage:
+- {Compute} VWL
+- {Compute} Auto-
+- {Storage}
 - CDN
-- Database:
-- Networking:
+- {Database}
+- {Networking}
 
 ### Analytics 서비스
 - Data Warehouse
